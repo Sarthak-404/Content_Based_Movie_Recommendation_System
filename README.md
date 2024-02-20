@@ -1,0 +1,1 @@
+It is a conten based movie recommendation system that is it recommends movies on the basis o tags created by us using genres, director, actor etc. This repo also consist of deploy.py file to deploy this project using streamlit. Data for this project is taken from Kaggle:-  "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"   
